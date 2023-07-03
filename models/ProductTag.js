@@ -28,6 +28,7 @@ ProductTag.init(
         unique: false
       }
     }
+    
   },
   {
     sequelize,
